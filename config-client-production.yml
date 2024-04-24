@@ -1,9 +1,9 @@
-feign:
-  hystrix:
-    enabled: true
+spring:
+  application:
+    name: config-client
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
+server:
+  port: 0
+
+user:
+  role: User-Anna
