@@ -1,5 +1,5 @@
 # Batch Title
-:watermelon: Java March Full Stack :watermelon:
+:watermelon: Java Full Stack :watermelon:
 
 ## Usage
 Code examples for Spring Cloud Config w/out Eureka
