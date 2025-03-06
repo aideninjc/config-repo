@@ -2,7 +2,7 @@
 :watermelon: Java Full Stack :watermelon:
 
 ## Usage
-Code examples for Spring Cloud Config w/out Eureka
+Code examples for Spring Cloud Config
 
 ## What's Next
   1. Please play around with the code and integrate Netflix Eureka and Spring Cloud API Gateway into it!
