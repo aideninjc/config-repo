@@ -6,5 +6,5 @@ server:
   port: 7778
 
 user:
-  role: cindy
+  role: alice
 
